@@ -5,3 +5,5 @@ To enjoy practicing GitHub
 - EP：情報工学EP
 - 氏名：宮本修吾
 - 学籍番号：2564291
+
+##乾燥感想
